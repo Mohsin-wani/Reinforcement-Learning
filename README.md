@@ -1,4 +1,4 @@
-# Reinforcement-learning
+# Reinforcement-learning using DQN
 
 implementation of 
 DQN,
